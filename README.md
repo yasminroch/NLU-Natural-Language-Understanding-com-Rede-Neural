@@ -56,7 +56,7 @@ Histograma 3 (preto): semelhante ao histograma 1, mas mais compacto, a maioria d
 Comparando com outros histogramas, percebe-se uma diferença de distribuição e que cada execução pode ter impacto na aprendizagem dos embeddings.
 
 ## B) Comparação dos resultados obtidos com Word2vec
-No segundo notebook, o Word2Vec foi utilizado para criar embeddings das palavras, sendo uma alternativa diferente em comparação ao iso de camadas de embeddings já treinadas diretamente no modelo de rede neural como é visto no primeiro notebook.\]
+No segundo notebook, o Word2Vec foi utilizado para criar embeddings das palavras, sendo uma alternativa diferente em comparação ao iso de camadas de embeddings já treinadas diretamente no modelo de rede neural como é visto no primeiro notebook.
 
 Foram utilizadas arquiteturas como:  
 Skip-Gram: tenta prever as palavras de contexto ao redor de uma palavra central. É útil quando há poucas ocorrências de palavras no conjunto de dados.   
