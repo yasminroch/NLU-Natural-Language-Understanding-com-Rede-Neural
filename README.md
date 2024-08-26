@@ -1,7 +1,6 @@
 # NLU-com-Rede-Neural
 
 Atividade realizada pelos alunos da primeira turma de ciência da computação do INTELI:
-* Gabriel Carneiro
 * Gabriel Nhoncanse
 * João Alcaraz
 * Pedro Munhoz
