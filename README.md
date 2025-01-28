@@ -1,4 +1,4 @@
-# NLU-com-Rede-Neural
+# NLU (Natural Language Understanding) com Rede Neural
 
 Atividade realizada pelos alunos da primeira turma de ciência da computação do INTELI:
 * Gabriel Nhoncanse
